@@ -1,2 +1,3 @@
-# CMake_Multiproject
-Explore how Cmake deal with multiprojects
+# CMake Using Modular Projects
+
+Explore how CMake deal with Multi-projects
